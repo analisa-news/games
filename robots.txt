@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://analisa-news.github.io/games/sitemap.xml
